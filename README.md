@@ -37,15 +37,13 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 ## 🔍 Insights & Findings
 - Sales peak during **festive occasions** like **Holi and Raksha Bandhan**.
 - **Colors and Soft Toys** generate the highest revenue among product categories.
-- Customers spend an **average of ₹3,520.98 per order**.
+- Customers spend an **average of ₹3,521 per order**.
 - **Imphal, Dhanbad, and Kavali** are among the top cities by order count.
 - Higher order quantities **do not significantly impact delivery time**.
 
 ## 🔚 Conclusion
-This analysis provides key insights that can help **Ferns N Petals** optimize its sales strategies, improve inventory management, and enhance customer experience. The findings highlight the importance of **seasonal trends, product popularity, and efficient logistics** in driving business growth.
+This analysis provides key insights that can help **FNP** optimize its sales strategies, improve inventory management, and enhance customer experience. The findings highlight the importance of **seasonal trends, product popularity, and efficient logistics** in driving business growth.
 
----
 
-**Author:** Rakesh Joshi
 
 **Email:** rakeshgjoshi4@gmail.com
