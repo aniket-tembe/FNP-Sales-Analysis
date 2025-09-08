@@ -28,11 +28,7 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 2. Review the **Problem Statement PDF** to understand the key objectives.
 3. Use the **Screenshots** to get a quick view of the results without opening the Excel file.
 
-## 📸 Dashboard Screenshot
-### 🏷️ Sales Overview  
-![Sales Overview](Analysis/Dashboard.png)
 
-![PowerPivot](Analysis/insights.png)
 
 ## 🔍 Insights & Findings
 - Sales peak during **festive occasions** like **Holi and Raksha Bandhan**.
@@ -45,5 +41,3 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 This analysis provides key insights that can help **FNP** optimize its sales strategies, improve inventory management, and enhance customer experience. The findings highlight the importance of **seasonal trends, product popularity, and efficient logistics** in driving business growth.
 
 
-
-**Email:** rakeshgjoshi4@gmail.com
